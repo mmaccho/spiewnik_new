@@ -12,4 +12,4 @@ Dodawanie nowej piosenki odbywać powinno się poprzez:
 
 ## dobre praktyki korzystania z repo
 
-Każde zmiany, nad którymi pracujemy, a nie są jeszcze dokończone należy modyfikować na dedykowanej gałęzi.
+Każde zmiany, nad którymi pracujemy, a nie są jeszcze dokończone należy modyfikować na dedykowanej gałęzi, lub lokalnie a potem zrobić merge requesta.
