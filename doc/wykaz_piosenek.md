@@ -1,4 +1,4 @@
-# wykaz piosenek
+﻿# wykaz piosenek
 
 | artysta               | tytuł piosenki              | gotowe? |
 |-----------------------|-----------------------------|---------|
@@ -26,7 +26,7 @@
 |                       | Opowieść pewnego emigranta  | tak     |
 |                       | Sen Katarzyny II            | nie     |
 |                       | Warchoł                     | nie     |
-|                       | Zbroja                      | nie     |
+|                       | Zbroja                      | tak     |
 | Kult                  | --                          | --      |
 |                       | Arahja                      | nie     |
 |                       | Baranek                     | nie     |
@@ -34,7 +34,7 @@
 | Lady Pank             | --                          | --      |
 |                       | Wspinaczka                  | nie     |
 | Lej Mi Pół            | --                          | --      |
-|                       | Sąsiad                      | nie     |
+|                       | Sąsiad                      | tak     |
 |                       | Siostra                     | nie     |
 |                       | Zrzucam Cię                 | tak     |
 | Myslovitz             | --                          | --      |
@@ -59,7 +59,7 @@
 | Гражданская Оборона   | --                          | --      |
 |                       | Всё идёт по плану           | nie     |
 | Драг                  | --                          | --      |
-|                       | 40 000 способов подохнуть   | nie     |
+|                       | 40 000 способов подохнуть   | tak     |
 | Олег Газманов         | --                          | --      |
 |                       | Бессмертный полк            | nie     |
 |                       | Вперед, Россия!             | nie     |
