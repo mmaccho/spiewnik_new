@@ -10,7 +10,7 @@
 |                       | Jesienne wino               | nie     |
 | Artur Andrus          | --                          | --      |
 |                       | Baba na psy                 | nie     |
-|                       | Szanta narciarska           | nie     |
+|                       | Szanta narciarska           | tak     |
 | Edmund Fetting        | --                          | --      |
 |                       | Nim wstanie dzień           | nie     |
 | Israel Kamakawiwo'ole | --                          | --      |
